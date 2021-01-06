@@ -3,7 +3,7 @@
 
 #a, b, c = 3, 20, 100
 #print(a + b + c)
-kuku
+
 #SWAP-1
 """
 a = 2
